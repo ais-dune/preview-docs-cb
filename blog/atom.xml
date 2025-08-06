@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ais-dune.github.io/preview-docs-cb/blog"/>
     <subtitle>CONTRABASS Blog</subtitle>
-    <icon>https://ais-dune.github.io/preview-docs-cb/img/common/logo_blue_ic.svg</icon>
+    <icon>https://ais-dune.github.io/preview-docs-cb/img/common/logo_bk_ic.svg</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://ais-dune.github.io/preview-docs-cb/blog/welcome</id>
